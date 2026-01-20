@@ -2,7 +2,10 @@
 
 **ClipShot** is a powerful screenshot and annotation tool for Linux, designed to enhance your productivity. It allows you to capture any part of your screen and keep it floating as a **"visual sticky note"** or instantly annotate and share it.
 
-![ClipShot Icon](data/clipshot.png)
+![ClipShot Icon](screenshots/clipshot01.png)
+![ClipShot Icon](screenshots/clipshot02.png)
+![ClipShot Icon](screenshots/clipshot03.png)
+
 
 ## 🚀 Key Features
 
