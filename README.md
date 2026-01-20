@@ -17,7 +17,7 @@
 ## 📦 Installation
 
 ### Download Binaries
-Check the [Latest Release](https://github.com/hacci/ClipShot/releases/latest) for:
+Check the [Latest Release](https://github.com/hacci-site/ClipShot-bin/releases/latest) for:
 - **AppImage**: Portable version, works on most distributions.
 - **.deb**: For Ubuntu, Debian, Linux Mint.
 - **.rpm**: For Fedora, openSUSE, RHEL.
@@ -75,7 +75,7 @@ See `LICENCE.txt` for details.
 ## 📦 インストール
 
 ### バイナリをダウンロード
-[最新のリリースページ](https://github.com/hacci/ClipShot/releases/latest)から、お使いの環境に合わせたパッケージをダウンロードしてください。
+[最新のリリースページ](https://github.com/hacci-site/ClipShot-bin/releases/latest)から、お使いの環境に合わせたパッケージをダウンロードしてください。
 - **AppImage**: インストール不要。実行権限を付与するだけで、多くのディストリビューションで動作します。
 - **.deb**: Ubuntu, Debian, Linux Mint向け。
 - **.rpm**: Fedora, openSUSE, RHEL向け。
