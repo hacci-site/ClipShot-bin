@@ -1,0 +1,74 @@
+ClipShot License Agreement
+1. Grant of License
+
+EN:
+This software ("ClipShot") is provided free of charge for PERSONAL, NON-COMMERCIAL USE ONLY.
+You are granted a limited, non-exclusive, non-transferable license to use this software on your own devices.
+
+JA（参考訳）:
+本ソフトウェア「ClipShot」は、個人利用かつ非商用利用に限り、無償で提供されます。
+利用者には、自身のデバイス上で使用する目的に限り、限定的・非独占的・譲渡不可の使用許諾が与えられます。
+
+2. Restrictions
+
+EN:
+Unless expressly authorized by the author (HACCI) in writing, you are NOT permitted to:
+
+Copy, modify, or create derivative works of the software.
+
+Redistribute the software, binaries, or its source code in any form.
+
+Sell, rent, lease, sublicense, or use the software for any commercial purposes.
+
+Reverse engineer, decompile, or disassemble the software.
+
+JA（参考訳）:
+著作者（HACCI）から書面による明示的な許可がない限り、以下の行為は禁止されます。
+
+本ソフトウェアの複製、改変、または派生物の作成
+
+バイナリ・ソースコードを問わない再配布
+
+販売、貸与、サブライセンス、またはその他一切の商用利用
+
+リバースエンジニアリング、逆コンパイル、逆アセンブル
+
+3. Ownership
+
+EN:
+The software and all intellectual property rights therein remain the sole property of HACCI.
+
+JA（参考訳）:
+本ソフトウェアおよびそれに関連するすべての知的財産権は、HACCI に帰属します。
+
+4. No Warranty
+
+EN:
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+JA（参考訳）:
+本ソフトウェアは「現状のまま」提供され、商品性、特定目的への適合性、非侵害性を含む、いかなる保証も行いません。
+本ソフトウェアの使用または使用不能により生じたいかなる損害についても、著作者または著作権者は責任を負いません。
+
+5. Termination
+
+EN:
+This license terminates automatically if you fail to comply with its terms.
+Upon termination, you must cease all use of the software and destroy all copies in your possession.
+
+JA（参考訳）:
+本ライセンスは、条項に違反した場合、自動的に失効します。
+失効後は、本ソフトウェアの使用を直ちに中止し、保有するすべての複製を破棄しなければなりません。
+
+Contact
+
+EN:
+For permissions beyond this license, please contact:
+HACCI
+https://hacci.site/
+
+JA（参考訳）:
+本ライセンスの範囲を超える利用（商用利用等）については、以下までお問い合わせください。
+HACCI
+https://hacci.site/
