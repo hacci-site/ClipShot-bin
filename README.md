@@ -22,17 +22,6 @@ Check the [Latest Release](https://github.com/hacci-site/ClipShot-bin/releases/l
 - **.deb**: For Ubuntu, Debian, Linux Mint.
 - **.rpm**: For Fedora, openSUSE, RHEL.
 
-### Building from Source
-**Dependencies:**
-- GTK+ 3.0, Tesseract OCR, Leptonica, CMake, G++
-
-```bash
-mkdir build && cd build
-cmake .. -DCMAKE_BUILD_TYPE=Release
-make
-./ClipShot
-```
-
 ## ⌨️ Shortcuts
 
 ClipShot is designed for speed. See [docs/shortcuts.md](docs/shortcuts.md) for the full list.
@@ -79,17 +68,6 @@ See `LICENCE.txt` for details.
 - **AppImage**: インストール不要。実行権限を付与するだけで、多くのディストリビューションで動作します。
 - **.deb**: Ubuntu, Debian, Linux Mint向け。
 - **.rpm**: Fedora, openSUSE, RHEL向け。
-
-### ソースからビルド
-**依存ライブラリ:**
-- GTK+ 3.0, Tesseract OCR, Leptonica, CMake, G++
-
-```bash
-mkdir build && cd build
-cmake .. -DCMAKE_BUILD_TYPE=Release
-make
-./ClipShot
-```
 
 ## ⌨️ ショートカットキー
 
